@@ -8,6 +8,16 @@ Author URI:   https://wwww.ekspresyon.com/
 License:      GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 */
+
+/* 
+
+This plugin code is the effort of other developers. 
+I only assembled it into a plugin for WP.
+I unfortunately can't retrace the original scripts and give credit to them. 
+Thanks you to those who are willing to help others and submit working scripts free of charge.
+
+*/
+
 /*
  * Function creates post duplicate as a draft and redirects then to the edit post screen
  */
